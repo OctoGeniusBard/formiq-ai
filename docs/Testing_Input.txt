@@ -1,0 +1,13 @@
+
+
+Create a feedback form for faculty attending a Python workshop.
+
+Collect:
+1. Faculty name
+2. Department
+3. Email address
+4. Overall session rating from 1 to 5
+5. Topics they found useful
+6. Suggestions for improvement
+
+The form should be professional and concise.
